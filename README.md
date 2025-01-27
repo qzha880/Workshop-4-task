@@ -32,7 +32,7 @@ Workshop 4 task
 - The slider can be used to manipulate b1, but b1 will be exist on the canvas from the start. Also if the user darg the slider for a few times, the image will be completely in a single colour (the alpha value cannot be adjusted)
 
 <img width="970" alt="截屏2025-01-26 17 07 14" src="https://github.com/user-attachments/assets/3cee0663-7a11-42ab-a0a3-33c3b8cd10c2" />
-- Double click to add details. (Reference: [https: //p5js.org/reference/p5/doubleClicked/](https://p5js.org/reference/p5/doubleClicked/))
+- Double click to add details. (Reference: https://p5js.org/reference/p5/doubleClicked/)
 
 - Added setTimeout to get a text 'Double click to add details' 10s after the sketch ran.
 

@@ -12,7 +12,7 @@ Workshop 4 task
 
 - I want to make a start page. (after the user click the mouse, the selection box will appear)
 
-- * Cannot use a rectangle shape to cover the whole canvas and use mousePressed function to clear the rect. (always items on the top of the rect, if I move rect to the top, the overlap images problem will come up again)
+- * Cannot use a rectangle shape to cover the whole canvas and use mousePressed function to clear the rect. (always have items on the top of the rect, if I move rect to the top, the overlap images problem will come up again)
 - * Experimented with setTimeout and mousePressed function to control when the selection boxes appear. (even the boxes apppeared as I planed, the selections will not work)
   * The code 'selection1 = createSelect();' needs to be in the setup function.
  
@@ -29,7 +29,7 @@ Workshop 4 task
 
 <img width="965" alt="截屏2025-01-26 15 31 44" src="https://github.com/user-attachments/assets/f77afe1d-2a57-4c04-a524-a9bd122ef4c7" />
 
-- The slider can be used to manipulate b1, but b1 will be exist on the canvas from the start. Also if the user darg the slider for a few times, the image will be completely in a single colour (the alpha value cannot be adjusted)
+- The slider can be used to manipulate b1, but b1 will be exist on the canvas from the start. Also if the user drag the slider for a few times, the image will be completely become a single colour (the alpha value cannot be adjusted)
 
 <img width="970" alt="截屏2025-01-26 17 07 14" src="https://github.com/user-attachments/assets/3cee0663-7a11-42ab-a0a3-33c3b8cd10c2" />
 - Double click to add details. (Reference: https://p5js.org/reference/p5/doubleClicked/)
@@ -53,11 +53,11 @@ Workshop 4 task
 - * I changed it back. (click the button to sign, the next line will be under the previous line)
  
 
-At last, I changed all the images, reset the times, moved the input to a better place. 
+At last, I replaced all the images, reset the times, moved the input to a better place. 
 
 
 ### Problems met
-- Image size too big, the canvas cannot fit - risize the image
+- Image size too big, the canvas cannot fit - resize the image
 - The text does not appear. (the background blocks the text) - move background from draw function to setup function
 
 <img width="949" alt="截屏2025-01-25 23 52 38" src="https://github.com/user-attachments/assets/119feb9e-5996-4561-9b13-d830daa4c6bb" />

@@ -13,6 +13,7 @@ Workshop 4 task
 
 - * Cannot use a rectangle shape to cover the whole canvas and use mousePressed function to clear the rect. (always items on the top of the rect, if I move rect to the top, the overlap images problem will come up again)
 - * Experimented with setTimeout and mousePressed function to control when the selection boxes appear. (even the boxes apppeared as I planed, the selections will not work)
+  * The code 'selection1 = createSelect();' needs to be in the setup function.
 
 ### Problems met
 - Image size too big, the canvas cannot fit - risize the image

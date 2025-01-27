@@ -11,8 +11,8 @@ Workshop 4 task
 
 - I want to make a start page. (after the user click the mouse, the selection box will appear)
 
-- Cannot use a rectangle shape to cover the whole canvas and use mousePressed function to clear the rect. (always items on the top of the rect, if I move rect to the top, the overlap images problem will come up again)
-- Experimented with setTimeout and mousePressed function to control when the selection boxes appear. (even the boxes apppeared as I planed, the selections will not work)
+- * Cannot use a rectangle shape to cover the whole canvas and use mousePressed function to clear the rect. (always items on the top of the rect, if I move rect to the top, the overlap images problem will come up again)
+- * Experimented with setTimeout and mousePressed function to control when the selection boxes appear. (even the boxes apppeared as I planed, the selections will not work)
 
 ### Problems met
 - Image size too big, the canvas cannot fit - risize the image

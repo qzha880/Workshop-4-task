@@ -28,6 +28,7 @@ Workshop 4 task
 - Tried to use the slider to manipulate the images individually. (using the first background image b1 as an example)
 
 <img width="965" alt="截屏2025-01-26 15 31 44" src="https://github.com/user-attachments/assets/f77afe1d-2a57-4c04-a524-a9bd122ef4c7" />
+
 - The slider can be used to manipulate b1, but b1 will be exist on the canvas from the start. Also if the user darg the slider for a few times, the image will be completely in a single colour (the alpha value cannot be adjusted)
 
 <img width="970" alt="截屏2025-01-26 17 07 14" src="https://github.com/user-attachments/assets/3cee0663-7a11-42ab-a0a3-33c3b8cd10c2" />
